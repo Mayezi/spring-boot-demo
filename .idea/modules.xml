@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo-helloworld/demo-helloworld.iml" filepath="$PROJECT_DIR$/demo-helloworld/demo-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-properties/demo-properties.iml" filepath="$PROJECT_DIR$/demo-properties/demo-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-rdbms/demo-rdbms.iml" filepath="$PROJECT_DIR$/demo-rdbms/demo-rdbms.iml" />
     </modules>
   </component>
 </project>

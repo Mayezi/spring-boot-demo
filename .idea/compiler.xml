@@ -9,11 +9,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo-helloworld" />
         <module name="demo-properties" />
+        <module name="demo-rdbms" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="demo-helloworld" target="1.7" />
-      <module name="demo-properties" target="1.7" />
+      <module name="demo-helloworld" target="1.8" />
+      <module name="demo-properties" target="1.8" />
+      <module name="demo-rdbms" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

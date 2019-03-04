@@ -75,6 +75,7 @@
         <option value="$PROJECT_DIR$/helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/demo-helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/demo-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-rdbms/pom.xml" />
       </list>
     </option>
   </component>
